@@ -1,0 +1,10 @@
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/bin/Debug/netcoreapp3.1/ejercicio_variables.deps.json
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/bin/Debug/netcoreapp3.1/ejercicio_variables.runtimeconfig.json
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/bin/Debug/netcoreapp3.1/ejercicio_variables.runtimeconfig.dev.json
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/bin/Debug/netcoreapp3.1/ejercicio_variables.dll
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/bin/Debug/netcoreapp3.1/ejercicio_variables.pdb
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/obj/Debug/netcoreapp3.1/ejercicio_variables.csprojAssemblyReference.cache
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/obj/Debug/netcoreapp3.1/ejercicio_variables.AssemblyInfoInputs.cache
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/obj/Debug/netcoreapp3.1/ejercicio_variables.AssemblyInfo.cs
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/obj/Debug/netcoreapp3.1/ejercicio_variables.dll
+/Users/jeffeotto/Projects/ejercicio_variables/ejercicio_variables/obj/Debug/netcoreapp3.1/ejercicio_variables.pdb
